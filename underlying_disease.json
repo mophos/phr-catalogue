@@ -1,0 +1,26 @@
+{
+  "cid": "1100411247845",
+  "underlying_disease":
+  [
+    {
+      "date_diagnose": "2021-07-22",
+      "disease_en_name": "",
+      "disease_th_name": "",
+      "disease_code": "",
+      "disease_code_type" : "" ,
+      "drugs":
+        [
+          {
+            "drug_name": "Domperidone",
+            "drug_generic_name" : " " ,
+            "product_name" : " ",
+            "drug_code": "1530227",
+            "drug_code_type" : "TMT"
+          }
+        ],
+      "provider_name": " ",
+      "condition_Disease": "",
+      "date_update" : ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "cid" : "1100411247845",
+  "anc" :
+  [
+    {
+      "hospital_code" : "41124",
+      "hospital_name" : "1530227",
+      "visit_no": "200005",
+      "date_serv" : "2021-07-26",
+      "gravida" : "ครรภ์ที่ 1 ",
+      "ancno" : " การนัดช่วงที่ 1 เมื่ออายุครรภ์ <= 12 สัปดาห์ ",
+      "ga" : " 10 สัปดาห์" ,
+      "ancresult" : " 1 = ปกติ " ,
+      "ancplace" : "" ,
+      "provider" : "" ,
+      "date_update" : "" ,
+      "weight" : "" ,
+      "note" : ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "cid": "1100411247845",
+  "drugs":
+  [
+    {
+      "hospital_code": "41124",
+      "hospital_name": "ศทส.",
+      "visit_no": "200105",
+      "visit_date": "2021-05-01",
+      "drug_name": "Domperidone",
+      "drug_generic_name" : " " ,
+      "product_name" : " ",
+      "drug_code": "1530227",
+      "drug_code_type" : "TMT" ,
+      "qty": "21",
+      "usage": "รับประทานครั้งละ 1เม็ด วันละ 3 เวลา หลังอาหาร เช้า-กลางวัน-เย็น"
+    }
+  ]
+}

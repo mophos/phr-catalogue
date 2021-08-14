@@ -1,0 +1,83 @@
+{
+  "cid": "1100411247845",
+  "visit_opd":
+  [
+    {
+      "hospital_code": "41124",
+      "hospital_name": "ศทส.",
+      "hn": "0022072564",
+      "an": "2272564",
+      "visit_no": "200005",
+      "visit_date": "2021-12-31",
+      "visit_time": "05:00.00",
+      "bpd" : "84" ,
+      "bps" : "120" ,
+      "weight" : "56" ,
+      "height" : "163",
+      "discharge_date" : " " ,
+      "typeout" : "1=หายกลับบ้าน" ,
+      "diagnosis":
+        [
+          {
+            "diagnosis_type" : "การวินิจฉัยโรคหลัก" ,
+            "diagnosis_code" : "" ,
+            "diagnosis_code_type" : "" ,
+            "diagnosis_en_name" : "",
+            "diagnosis_th_name" : "",
+            "provider_name" : "",
+          }
+        ],
+      "lab":
+        [
+          {
+            "lab_group_name" : "CHEMISTRY" ,
+            "lab_name" : "ALTor SGPT",
+            "lab_result" : "86" ,
+            "normal_value" : "0-40" ,
+          }
+        ],
+      "x-ray" :
+      [
+        {
+          "x-ray_name" : " " , // หาข้อมูลเพิ่ม
+          "x-ray_result" : "" ,
+        }
+      ],
+
+      "procedure":
+      [
+        {
+          //หาข้อมูลเพิ่มว่าหนึ่งprocedure ควรมีหลาย provider ไหม
+          "procedure_code" : "" ,
+          "procedure_code_type" : "" ,
+          "dprocedure_en_name" : "",
+          "procedure_th_name" : "",
+          "provider_cid" : "",
+        }
+      ],
+      "appointment":
+      [
+        {
+          "appointment_date" : "2021-08-22" ,
+          "appointment_time" : "13:35:00" ,
+          "cause" : "รักษาต่อเนื่อง",
+          "contact_point" : "ห้องบัตร" ,
+          "appointment_type" : "" ,
+          "note" : "",
+        }
+      ],
+      "drugs":
+      [
+          {
+            "drug_name": "Domperidone",
+            "drug_generic_name" : " " ,
+            "product_name" : " ",
+            "drug_code": "1530227",
+            "drug_code_type" : "TMT" ,
+            "qty": "21",
+            "usage": "รับประทานครั้งละ 1เม็ด วันละ 3 เวลา หลังอาหาร เช้า-กลางวัน-เย็น"
+          }
+      ]
+    }
+  ]
+}

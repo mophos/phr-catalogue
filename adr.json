@@ -1,0 +1,21 @@
+{
+  "cid": "1100411247845",
+  "adr": [
+    {
+      "drug_name": "Domperidone",
+      "drug_generic_name" : " " ,
+      "product_name" : " ",
+      "drug_code": "1530227",
+      "drug_code_type" : "TMT" ,
+      "drug_interaction_code" : " ", //จะเกิดอาการแพ้เมื่อใช้ยาร่วม
+      "drug_interaction_code_type" : "",
+      "criticality": "high",
+      "onset_date": "2021-07-16",
+      "recorded_date": "2021-07-16",
+      "asserter": " ",
+      "symptom": "อาเจียน ผื่นขึ้นตามตัว",
+      "note": "" ,
+      "date_update" : ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "cid": "1100411247845",
+  "covid_vaccine": [
+    {
+      "hospital_code": "41124",
+      "hospital_name": "1530227",
+      "visit_no": "200105",
+      "date_serv": "2021-07-26",
+      "vaccine_name": " ",
+      "vaccine_type": " ",
+      "vaccine_place": " ",
+      "provider": "",
+      "note": "", //suggest or advise
+      "date_update" : ""
+    }
+  ],
+  "epi_vaccine":
+  [
+    {
+      "hospital_code": "41124",
+      "hospital_name": "1530227",
+      "visit_no": "200105",
+      "date_serv": "2021-07-26",
+      "vaccine_name": " ",
+      "vaccine_type": " ",
+      "vaccine_place": " ",
+      "provider": "",
+      "note": "",
+      "date_update" : ""
+    }
+  ],
+  "flu_vaccine": [
+    {
+      "hospital_code": "41124",
+      "hospital_name": "1530227",
+      "visit_no": "200105",
+      "date_serv": "2021-07-26",
+      "vaccine_name": " ",
+      "vaccine_type": " ",
+      "vaccine_place": " ",
+      "provider": "",
+      "note": "",
+      "date_update" : ""
+    }
+  ],
+  "etc_vaccine": [
+    {
+      "hospital_code": "41124",
+      "hospital_name": "1530227",
+      "visit_no": "200105",
+      "date_serv": "2021-07-26",
+      "vaccine_name": " ",
+      "vaccine_type": " ",
+      "vaccine_place": " ",
+      "provider": "",
+      "note": "",
+      "date_update" : ""
+    }
+  ]
+}
