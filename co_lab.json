@@ -1,0 +1,25 @@
+{
+    "identity_id" : "4100500077756",
+    "cid" : "4100500077756",
+    "passport" : "",
+    "title_name" : "นาย",
+    "first_name" : "ธนิษฐ์",
+    "last_name" : "มีจันทร์",
+    "birth_date" : "1978-03-07",
+    "address" : "166/22 ถ.พระราชวิริยาภรณ์",
+    "subdistrict_code" : "110402",
+    "district_code" : "1104",
+    "province_code" : "11",
+    "lab" : [ 
+        {
+            "lab_no" : "ICN64483162",
+            "send_datetime" : "2021-08-11 19:32:00",
+            "confirm_datetime" : "2021-08-10 08:31:00",
+            "hospcode_send_lab" : "40064",
+            "place_send_lab" : "หน่วยรถพระราชทานตรวจวิเคราะห์ด่วนพิเศษเคลื่อนที่ สถาบันป้องกันควบคุมโรคเขตเมือง",
+            "hospcode_receive_lab" : "40064",
+            "place_receive_lab" : "หน่วยรถพระราชทานตรวจวิเคราะห์ด่วนพิเศษเคลื่อนที่ สถาบันป้องกันควบคุมโรคเขตเมือง",
+            "status" : "Detected"
+        }
+    ]
+}
