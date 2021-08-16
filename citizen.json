@@ -6,6 +6,7 @@
     "first_name" : "",
     "last_name" : "",
     "birth_date" : "",
+    "sex" : "",
     "address" : "",
     "subdistrict_code" : "",
     "district_code" : "",
