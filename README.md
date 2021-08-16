@@ -8,14 +8,14 @@
 | &times; | &times; | &times; | Citizen |
 | &times; | &times; | &times; | Non-Citizen |
 | &times; | &times; | &times; | CO-Lab |
-| &check; | &times; | &times; | Health profresstional profile |
-| &check; | &times; | &times; | Profresstional profile |
-| &check; | &times; | &times; | ADR |
-| &check; | &times; | &times; | ANC |
-| &check; | &times; | &times; | DRUG |
-| &check; | &times; | &times; | Hospital Visit |
-| &check; | &times; | &times; | Underlying Disease |
-| &check; | &times; | &times; | Underlying Disease Profile |
-| &check; | &times; | &times; | Vaccine |
-| &check; | &times; | &times; | Visit OPD |
-| &check; | &times; | &times; | Visit IPD |
+| &times; | &times; | &times; | Health profresstional profile |
+| &times; | &times; | &times; | Profresstional profile |
+| &times; | &times; | &times; | ADR |
+| &times; | &times; | &times; | ANC |
+| &times; | &times; | &times; | DRUG |
+| &times; | &times; | &times; | Hospital Visit |
+| &times; | &times; | &times; | Underlying Disease |
+| &times; | &times; | &times; | Underlying Disease Profile |
+| &times; | &times; | &times; | Vaccine |
+| &times; | &times; | &times; | Visit OPD |
+| &times; | &times; | &times; | Visit IPD |
