@@ -10,7 +10,7 @@
 | &times; | &times; | &times; | CO-Lab |
 | &times; | &times; | &times; | Health profresstional profile |
 | &times; | &times; | &times; | Profresstional profile |
-| &times; | &times; | &times; | ADR |
+| &check; | &times; | &times; | ADR |
 | &times; | &times; | &times; | ANC |
 | &times; | &times; | &times; | DRUG |
 | &times; | &times; | &times; | Hospital Visit |
