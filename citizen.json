@@ -1,14 +1,38 @@
 {
-    "health_id" : "",
-    "cid" : "",
-    "passport" : "",
-    "title_name" : "",
-    "first_name" : "",
-    "last_name" : "",
-    "birth_date" : "",
-    "sex" : "",
-    "address" : "",
-    "subdistrict_code" : "",
-    "district_code" : "",
-    "province_code" : "",
+    "health_id": "",
+    "cid": "",
+    "title_name": "",
+    "first_name": "",
+    "last_name": "",
+    "birth_date": "",
+    "gender": {
+        "code": "",
+        "name": ""
+    },
+    "address": {
+        "house_no": "",
+        "room_no": "",
+        "condo_name": "",
+        "soi_main": "",
+        "soi_sub": "",
+        "road_name": "",
+        "village_name": "",
+        "village":"",
+        "subdistrict": {
+            "code": "",
+            "name": ""
+        },
+        "district": {
+            "code": "",
+            "name": ""
+        },
+        "province": {
+            "code": "",
+            "name": ""
+        },
+        "zipcode": ""
+    },
+    "created_date": "",
+    "updated_date": "",
+    "created_by": ""
 }

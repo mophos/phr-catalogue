@@ -5,7 +5,7 @@
 
 | Schema  | Process Data| Import Data | name |
 |---|---|---|---|
-| &times; | &times; | &times; | Citizen |
+| &check; | &times; | &times; | Citizen |
 | &times; | &times; | &times; | Non-Citizen |
 | &times; | &times; | &times; | CO-Lab |
 | &times; | &times; | &times; | Health profresstional profile |
