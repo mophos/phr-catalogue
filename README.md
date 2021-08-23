@@ -15,7 +15,7 @@
 | &check; | &times; | &times; | DRUG |
 | &check; | &times; | &times; | Hospital Visit |
 | &check; | &times; | &times; | Underlying Disease |
-| &times; | &times; | &times; | Underlying Disease Profile |
+| &check; | &times; | &times; | Underlying Disease Profile |
 | &times; | &times; | &times; | Vaccine |
 | &times; | &times; | &times; | Visit OPD |
 | &times; | &times; | &times; | Visit IPD |
