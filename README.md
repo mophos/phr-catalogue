@@ -11,7 +11,7 @@
 | &times; | &times; | &times; | Health profresstional profile |
 | &times; | &times; | &times; | Profresstional profile |
 | &check; | &times; | &times; | ADR |
-| &times; | &times; | &times; | ANC |
+| &check; | &times; | &times; | ANC |
 | &times; | &times; | &times; | DRUG |
 | &times; | &times; | &times; | Hospital Visit |
 | &times; | &times; | &times; | Underlying Disease |
