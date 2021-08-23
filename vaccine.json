@@ -10,7 +10,7 @@
       "vaccine_type": " ",
       "vaccine_place": " ",
       "provider": "",
-      "note": "", //suggest or advise
+      "suggest": "", 
       "date_update" : ""
     }
   ],
