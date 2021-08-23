@@ -9,7 +9,7 @@
 | &check; | &times; | &times; | Non-Citizen |
 | &check; | &times; | &times; | CO-Lab |
 | &check; | &times; | &times; | Health profresstional profile |
-| &times; | &times; | &times; | Profresstional profile |
+| &check; | &times; | &times; | Profresstional profile |
 | &check; | &times; | &times; | ADR |
 | &check; | &times; | &times; | ANC |
 | &check; | &times; | &times; | DRUG |
