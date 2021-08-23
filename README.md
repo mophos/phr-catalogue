@@ -17,5 +17,5 @@
 | &check; | &times; | &times; | Underlying Disease |
 | &check; | &times; | &times; | Underlying Disease Profile |
 | &check; | &times; | &times; | Vaccine |
-| &times; | &times; | &times; | Visit OPD |
-| &times; | &times; | &times; | Visit IPD |
+| &check; | &times; | &times; | Visit OPD |
+| &check; | &times; | &times; | Visit IPD |
