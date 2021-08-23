@@ -12,7 +12,7 @@
 | &times; | &times; | &times; | Profresstional profile |
 | &check; | &times; | &times; | ADR |
 | &check; | &times; | &times; | ANC |
-| &times; | &times; | &times; | DRUG |
+| &check; | &times; | &times; | DRUG |
 | &times; | &times; | &times; | Hospital Visit |
 | &times; | &times; | &times; | Underlying Disease |
 | &times; | &times; | &times; | Underlying Disease Profile |
