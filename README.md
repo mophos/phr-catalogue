@@ -8,7 +8,7 @@
 | &check; | &times; | &times; | Citizen |
 | &times; | &times; | &times; | Non-Citizen |
 | &check; | &times; | &times; | CO-Lab |
-| &times; | &times; | &times; | Health profresstional profile |
+| &check; | &times; | &times; | Health profresstional profile |
 | &times; | &times; | &times; | Profresstional profile |
 | &check; | &times; | &times; | ADR |
 | &check; | &times; | &times; | ANC |
