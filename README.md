@@ -13,7 +13,7 @@
 | &check; | &times; | &times; | ADR |
 | &check; | &times; | &times; | ANC |
 | &check; | &times; | &times; | DRUG |
-| &times; | &times; | &times; | Hospital Visit |
+| &check; | &times; | &times; | Hospital Visit |
 | &times; | &times; | &times; | Underlying Disease |
 | &times; | &times; | &times; | Underlying Disease Profile |
 | &times; | &times; | &times; | Vaccine |
