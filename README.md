@@ -14,7 +14,7 @@
 | &check; | &times; | &times; | ANC |
 | &check; | &times; | &times; | DRUG |
 | &check; | &times; | &times; | Hospital Visit |
-| &times; | &times; | &times; | Underlying Disease |
+| &check; | &times; | &times; | Underlying Disease |
 | &times; | &times; | &times; | Underlying Disease Profile |
 | &times; | &times; | &times; | Vaccine |
 | &times; | &times; | &times; | Visit OPD |
