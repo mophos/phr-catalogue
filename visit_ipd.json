@@ -1,6 +1,5 @@
-//visit เพิ่ม visit ipd อีกอัน
 {
-  "cid": "1100411247845",
+  "health_id": "",
   "visit_ipd":
   [
     {
@@ -52,20 +51,24 @@
       [
         {
           "date_time" : "2021-05-25 09:35:45" ,
-          "x-ray_name" : " " , // หาข้อมูลเพิ่ม
+          "x-ray_name" : " " , 
           "x-ray_result" : "" ,
         }
       ],
       "procedure":
       [
         {
-          //หาข้อมูลเพิ่มว่าหนึ่งprocedure ควรมีหลาย provider ไหม
           "date_time" : "2021-05-25 09:35:45" ,
           "procedure_code" : "" ,
           "procedure_code_type" : "" ,
           "dprocedure_en_name" : "",
           "procedure_th_name" : "",
-          "provider_cid" : "",
+          "provider" : 
+          [
+            {
+              "provider_cid" : ""
+            }
+          ],
         }
       ],
       "appointment":
@@ -76,7 +79,7 @@
           "cause" : "รักษาต่อเนื่อง",
           "contact_point" : "ห้องบัตร" ,
           "appointment_type" : "" ,
-          "note" : "",
+          "suggest" : "",
         }
       ],
       "drugs":
